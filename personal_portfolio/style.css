@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+    padding: 10px;
+}
+header img {
+    width: 150px;
+    height: 150px;
+}
+section {
+    margin: 20px;
+    /* display: inline-block; */
+}
+.project {
+    width: 200px;
+    height: 200px;
+    border: 1px solid lightgrey;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+}
+#work, #bio {
+    background-color: greenyellow;
+    padding: 15px;
+}
